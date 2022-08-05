@@ -1,0 +1,168 @@
+
+body {
+    background-image: url(pic/1.jpg);
+    
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: black(0.5);
+    background-color: #000000ed;
+}
+    /* -image: radial-gradient(cirbackgroundcle, black(0.5), url(pic/1.jpg)); */
+    
+
+/* //backgroundu opacity yapamadım onu sor */
+.all{
+    /* background: url(pic/1.jpg); */
+    
+    
+    opacity: black(0.5);
+    background-size: cover;
+    width: 1473.2px;
+    height: 738.6px;
+} 
+.tum {
+    width: 1117.2;
+    height: 693.2;
+    font-size: 18px;
+    position: absolute;
+    
+
+}
+#logo {
+    width: 200px;
+    height: 52px;
+    padding: 25px;
+
+}
+#lan-log{
+    padding: 0px 0px 0px 1172px;
+    
+    float: inline-end;
+    align-items: flex-end;
+    margin-top: -68px;
+}
+
+#language {
+    width: 93.2px;
+    height: 36.2px;
+    color: black;
+    margin-right: 25px;
+    border: 0.3px solid white;
+    border-color: #ffffff;
+    opacity: 0.6;
+    border-radius: 3px;
+    
+}
+#login {
+    width: 113.11px;
+    height: 34px;
+    background-color: #E50914;
+    color: white;
+    box-sizing: border-box;
+    border: 1px solid red;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 3px;
+    
+ }
+ #login:hover{
+    background-color: rgb(251, 53, 53);
+ }
+
+
+.one {
+    color: #ffffff;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 150px ;
+    margin: 0px 0 0 0 ;
+    line-height: 60px;
+
+    
+}
+.one-2 {
+    color: #ffffff;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 0 0px 0 ;
+    padding-top: 0px;
+    border: hidden;
+    
+}
+
+.two {
+    color: white;
+    font: 66px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.three {
+    color: white;
+    font: 49.2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.orta {
+         /* width: 100px;
+        height: 100px;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        margin-left: -50px;
+        margin-top: -50px;  */
+        position: absolute;
+        top: 225%;
+        width: 100%;
+        text-align: center;
+        margin:0 auto;
+        padding: 10px;
+        line-height: 25px;
+        margin-left: 50px;
+
+        
+}
+.uc {
+    margin:0px 0px 0px 0px ; 
+    margin-left: -150px;
+    padding: 0px 0px;
+  }
+/* .email-submit {
+        position: absolute;
+        margin: 0px 150px ;
+        padding: 0px 0px;
+   
+}  */
+#e-mail {
+        width: 470px;
+        height: 64px;
+        padding: 0px 0px;
+    }
+#e-mail:hover{
+    border-color: red;
+}
+
+::placeholder{
+    color: solid black;
+    font-size: 18px;
+    padding: 20px 0px;
+}
+
+#submit {
+    width: 155.94px;
+    opacity: 0.2px;
+    height: 68px;
+    background-color: #E50914;
+    color: white;
+    box-sizing: border-box;
+    border: 1px solid red; 
+    text-align: center;
+    font-size: 32px;
+    position: absolute;
+    padding: 0px 0px;
+    /* hover ekle  */
+}
+
+#submit:hover{
+    background-color: rgb(251, 53, 53);
+    
+}
+
