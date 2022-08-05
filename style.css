@@ -1,11 +1,11 @@
 
 body {
     background-image: url(pic/1.jpg);
-    
     background-size: cover;
     background-attachment: fixed;
     opacity: black(0.5);
     background-color: #000000ed;
+    overflow-y: hidden;
 }
     /* -image: radial-gradient(cirbackgroundcle, black(0.5), url(pic/1.jpg)); */
     
@@ -140,10 +140,12 @@ body {
     border-color: red;
 }
 
+#e-mail ::placeholder {}
 ::placeholder{
     color: solid black;
     font-size: 18px;
-    padding: 20px 0px;
+    padding: 20px 10px;
+
 }
 
 #submit {
